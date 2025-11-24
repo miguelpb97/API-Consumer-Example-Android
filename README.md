@@ -7,7 +7,5 @@ You can change the API key later if you need to from the vertical menu in the ma
 Some captures:
 
 <img width="409" height="912" alt="Captura de pantalla 2025-11-24 143254" src="https://github.com/user-attachments/assets/515fd260-13f4-4edc-8784-4b3134985326" />
-<img width="409" height="890" alt="Captura de pantalla 2025-11-24 143344" src="https://github.com/user-attachments/assets/6b279db7-38f8-4318-b089-aa5377cbf994" />
 <img width="409" height="889" alt="Captura de pantalla 2025-11-24 143355" src="https://github.com/user-attachments/assets/ca161d50-0b0c-4630-9e7c-1d5e268303e6" />
 <img width="409" height="890" alt="Captura de pantalla 2025-11-24 143404" src="https://github.com/user-attachments/assets/b0cf1740-1481-48cc-96c0-08dc1d371a73" />
-<img width="409" height="883" alt="Captura de pantalla 2025-11-24 143416" src="https://github.com/user-attachments/assets/5d82515a-5e10-4225-9089-09e3a555ef14" />
