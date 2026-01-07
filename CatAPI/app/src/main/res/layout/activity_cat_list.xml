@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/background_app_color"
     tools:context=".CatListActivity">
 
     <RelativeLayout
@@ -23,7 +24,8 @@
             android:layout_marginStart="32dp"
             android:layout_marginTop="32dp"
             android:layout_marginEnd="32dp"
-            android:backgroundTint="@color/black"
+            android:backgroundTint="@color/main_app_color"
+            app:cornerRadius="12dp"
             android:drawableLeft="@drawable/ic_favorite_border_white_24"
             android:text="@string/favorite_cats" />
 
@@ -36,7 +38,8 @@
             android:layout_marginTop="16dp"
             android:layout_marginEnd="32dp"
             android:layout_marginBottom="16dp"
-            android:backgroundTint="@color/black"
+            android:backgroundTint="@color/main_app_color"
+            app:cornerRadius="12dp"
             android:drawableLeft="@drawable/ic_reload_white_24"
             android:text="@string/add_more_cats" />
 

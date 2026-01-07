@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="@color/background_app_color"
     android:fitsSystemWindows="true"
     tools:context=".SettingsActivity">
 
@@ -75,7 +75,8 @@
         android:drawableTint="@color/white"
         android:text="@string/save"
         android:textAlignment="center"
+        app:cornerRadius="12dp"
         android:textColor="@color/white"
-        app:backgroundTint="@color/black" />
+        app:backgroundTint="@color/main_app_color" />
 
 </RelativeLayout>
